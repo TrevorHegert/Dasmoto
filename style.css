@@ -1,0 +1,38 @@
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.header {
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: khaki;
+  background-image: url(./resources/pattern.jpeg);
+}
+
+.body .highlight {
+  color: blue;
+  font-weight: bold;
+}
+
+.banner {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brushBanner {
+  background-color: mediumspringgreen;
+}
+
+#framesBanner {
+  background-color: lightcoral;
+}
+
+#paintBanner {
+  background-color: skyblue;
+}
